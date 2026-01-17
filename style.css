@@ -35,6 +35,25 @@ h1 {
   margin-bottom: 3rem;
 }
 
+.intro strong {
+  font-weight: 600;
+}
+
+.intro em {
+  font-style: normal;
+  color: #aaa;
+}
+
+
+.intro-rule {
+  width: 60px;
+  height: 1px;
+  border: none;
+  background: #333;
+  margin: 1.5rem 0;
+}
+
+
 .gallery {
   margin-top: 3rem;
   display: grid;
